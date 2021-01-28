@@ -19,5 +19,9 @@
 * To change the default color theme of Mirador, click the settings icon on the left sidebar and select "Change Theme" ![](.gitbook/assets/screen-shot-2021-01-28-at-9.59.54-am.png)  
 * To toggle the object information panel on/off, click the three-bar icon in the upper right  ![](.gitbook/assets/screen-shot-2021-01-28-at-10.00.10-am.png) ![](https://github.com/danieltbrennan/puam-mirador-docs-docents/tree/fa27e2860062d434830f331794db816ccbf1ad53/.gitbook/assets/screen-shot-2021-01-28-at-9.55.01-am.png) 
 
+#### Layout Guide
+
+![](.gitbook/assets/screenshot_2021-01-28-princeton-university-art-museum-collection-viewer-1-.png)
+
 
 

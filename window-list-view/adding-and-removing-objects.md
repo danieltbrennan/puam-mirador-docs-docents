@@ -2,9 +2,9 @@
 
 Upon first opening Mirador in a list view configuration, the user will be presented with an empty image viewing window. Upon clicking the "Start Here" button in the top left corner of the window, the screen will change to a list of available objects for this Mirador viewer. Selecting an object from the list will then add it to the viewer window, and the view will change to the familiar high-resolution image display.
 
-![Adding an object to the viewer window](https://github.com/danieltbrennan/puam-mirador-docs-docents/tree/fa27e2860062d434830f331794db816ccbf1ad53/.gitbook/assets/adding-object.gif)
+![](../.gitbook/assets/adding-object.gif)
 
 In order to remove an object from the window and select another for viewing, click the close window icon in the upper right corner of the window denoted by an X. This will remove the object from the window and bring back the "Start Here" button, by which point another object can be selected from the list window.
 
-![Removing an object from the viewing window and replacing it with another](https://github.com/danieltbrennan/puam-mirador-docs-docents/tree/fa27e2860062d434830f331794db816ccbf1ad53/.gitbook/assets/removing-object.gif)
+![](../.gitbook/assets/removing-object.gif)
 

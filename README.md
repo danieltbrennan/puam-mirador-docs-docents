@@ -13,7 +13,7 @@ Mirador has been in use at the Princeton University Art Museum since 2017 when i
 
 As an open-source software project, Mirador is under continual development and new releases are made available on a regular basis. At the time of this documentation, the Art Museum currently supports Mirador version 3.0.0.
 
-![Example Mirador view of a work from the collection](https://github.com/danieltbrennan/puam-mirador-docs-docents/tree/fa27e2860062d434830f331794db816ccbf1ad53/.gitbook/assets/image%20%282%29.png)
+![Example Mirador view of a work from the collection](.gitbook/assets/image%20%282%29.png)
 
 ## Table of Contents
 

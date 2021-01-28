@@ -6,9 +6,7 @@ Mirador has been thoroughly tested for compatibility in all modern web browsers.
 
 The Museum supports several different configurations of Mirador optimized for different viewing experiences. These include:
 
-* [Single Object View](../single-object-view/untitled.md)
-* [Package View](../package-view/untitled.md)
+* [Single Object View]()
+* [Package View]()
 * [List View](../window-list-view/overview.md)
-
-
 

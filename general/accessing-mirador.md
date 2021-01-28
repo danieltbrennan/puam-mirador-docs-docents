@@ -4,9 +4,3 @@ Mirador is accessed through a web browser, software application for accessing in
 
 Mirador has been thoroughly tested for compatibility in all modern web browsers. Internet Explorer is not recommended.
 
-The Museum supports several different configurations of Mirador optimized for different viewing experiences. These include:
-
-* [Single Object View]()
-* [Package View]()
-* [List View](../window-list-view/overview.md)
-

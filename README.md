@@ -17,25 +17,14 @@ As an open-source software project, Mirador is under continual development and n
 
 ## Table of Contents
 
+* \*\*\*\*[**Quick Reference**](quick-reference.md)\*\*\*\*
 * **General**
   * [Accessing Mirador](general/accessing-mirador.md)
   * [Layout and Controls](general/layout-and-controls.md)
   * [Working with Images](general/working-with-images.md)
   * [Window Configuration Options](general/window-configuration-options.md)
-* **Single Object View**
-  * [Overview]()
-* **Package View**
-
-  * [Overview _\*\*_]()\*\*\*\*
-
-  \*\*\*\*
-
 * **List View**
   * [Overview](window-list-view/overview.md)
   * [Adding and Removing Objects](window-list-view/adding-and-removing-objects.md)
   * [Comparing Multiple Objects](window-list-view/comparing-multiple-objects.md)
-* **Other**
-  * [About IIIF]()
-  * [Working Across Collections]()
-  * [Annotations]()
 

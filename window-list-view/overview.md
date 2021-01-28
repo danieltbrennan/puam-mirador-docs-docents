@@ -10,5 +10,5 @@ The List View configuration of the Mirador Viewer offers the ability to display 
 
 Example Mirador list view instance: [https://static.artmuseum.princeton.edu/mirador-teaching/?packagelist=https://data.artmuseum.princeton.edu/packages/192129](https://static.artmuseum.princeton.edu/mirador-teaching/?packagelist=https://data.artmuseum.princeton.edu/packages/192129)
 
-![](../.gitbook/assets/image%20%281%29.png)
+![A sample instance of the Mirador List View](../.gitbook/assets/image%20%281%29.png)
 
